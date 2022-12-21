@@ -21,4 +21,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### test
 ```
-set demo
+set demo 模拟线上修改代码
